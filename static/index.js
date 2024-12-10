@@ -445,7 +445,7 @@ const openNewtab = () => {
 };
 
 let splashtext = [
-  "web.towel.codes"
+  ""
 ]
 
 const runService = async (url, override, overrideadrbar) => {
